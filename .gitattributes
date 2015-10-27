@@ -63,5 +63,4 @@
 #*.RTF   diff=astextplain
 
 
-*.jpg filter=lfs -crlf
 
