@@ -64,3 +64,4 @@
 
 
 
+*.png filter=lfs -crlf
